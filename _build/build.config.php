@@ -4,7 +4,7 @@ const PKG_NAME = 'pdoTools';
 const PKG_NAME_LOWER = 'pdotools';
 
 const PKG_VERSION = '3.0.3';
-const PKG_RELEASE = 'pl';
+const PKG_RELEASE = 'pl2';
 const PKG_AUTO_INSTALL = false;
 
 /* define paths */

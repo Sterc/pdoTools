@@ -1,5 +1,9 @@
 Changelog for pdoTools.
 
+3.0.3-pl2 (23.06.2026)
+==============
+- Add vendor directory.
+
 3.0.3-pl (01.04.2026)
 ==============
 - Security fix for the Fenom parser.
